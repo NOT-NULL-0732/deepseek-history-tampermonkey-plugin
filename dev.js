@@ -1,11 +1,11 @@
 /// <reference types="tampermonkey" />
 // ==UserScript==
-// @name         油猴模板
+// @name         deepseek历史记录收藏-油猴插件
 // @namespace    http://your-namespace.com
 // @version      1.0
-// @description  专业油猴模板
+// @description  deepseek历史记录收藏-油猴插件
 // @author       NOT-NULL-0732
-// @match        https://example.com
+// @supportURL   https://github.com/NOT-NULL-0732/deepseek-history-tampermonkey-plugin
+// @match        about:blank
 // @grant        GM_xmlhttpRequest
-// @require      file://D:\\tampermonkey-template\\index.js
 // ==/UserScript==
